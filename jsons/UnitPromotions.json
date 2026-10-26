@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Dragon Blood",
+    "prerequisites": [],
+    "unitTypes": ["Dragon"],
+    "uniques": [
+      "[+10] HP",
+      "Heals [5] damage every turn"
+    ]
+  },
+  {
+    "name": "Fire Breath Mastery",
+    "prerequisites": ["Dragon Blood"],
+    "unitTypes": ["Dragon"],
+    "uniques": [
+      "[+20]% Strength",
+      "[+1] Range"
+    ]
+  }
+]
