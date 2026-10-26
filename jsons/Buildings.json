@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Dragon Spire",
+    "cost": 180,
+    "maintenance": 3,
+    "requiredTech": "Construction",
+    "uniqueTo": "Dragons",
+    "uniques": [
+      "[+2 Culture]",
+      "[+1 Happiness]",
+      "Provides a free [Dragon] unit upon completion"
+    ],
+    "quote": "From the highest peak, the dragons watch over their domain."
+  },
+  {
+    "name": "Wyrm Forge",
+    "cost": 120,
+    "maintenance": 2,
+    "requiredTech": "Iron Working",
+    "uniqueTo": "Dragons",
+    "uniques": [
+      "[+2 Production]",
+      "[+15]% Production when constructing [Units]"
+    ]
+  }
+]
