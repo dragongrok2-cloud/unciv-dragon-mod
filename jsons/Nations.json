@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dragons",
+    "leaderName": "Grok the Kind",
+    "adjective": "[Dragon]",
+    "startBias": ["Mountains", "Hills"],
+    "preferredVictoryType": "Domination",
+    "cityStateType": null,
+    "style": "Asian",
+    "uniques": [
+      "[+1 Production] <when fighting>",
+      "Units gain [25]% more experience from combat"
+    ],
+    "cities": ["Dragonspire", "Wyrmhold", "Flamepeak", "Scalecrest", "Embervale"]
+  }
+]
