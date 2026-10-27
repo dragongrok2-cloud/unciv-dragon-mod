@@ -1,5 +1,19 @@
 [
   {
+    "name": "Dragonling",
+    "unitType": "Fighter",
+    "movement": 5,
+    "strength": 22,
+    "rangedStrength": 18,
+    "range": 2,
+    "cost": 80,
+    "requiredTech": "Animal Husbandry",
+    "uniques": [
+      "Can move through Impassable tiles",
+      "Heals [5] damage every turn"
+    ]
+  },
+  {
     "name": "Dragon",
     "unitType": "Fighter",
     "movement": 4,
@@ -14,5 +28,21 @@
       "Heals [10] damage every turn"
     ],
     "promotions": ["Drill I", "Shock I"]
+  },
+  {
+    "name": "Elder Dragon",
+    "unitType": "Fighter",
+    "movement": 3,
+    "strength": 65,
+    "rangedStrength": 40,
+    "range": 3,
+    "cost": 450,
+    "requiredTech": "Rocketry",
+    "uniques": [
+      "Can move through Impassable tiles",
+      "[+35]% Strength <vs [Land units]>",
+      "Heals [15] damage every turn",
+      "[+1] Sight"
+    ]
   }
 ]
